@@ -17,13 +17,3 @@ A brief, one-to-two sentence description of what this project does and who it's 
 | **Frontend** | React, Tailwind CSS |
 | **Backend** | Node.js, Express |
 | **Database** | PostgreSQL |
-
-## 📦 Installation
-
-Get the project up and running locally by following these steps.
-
-### Prerequisites
-
-Make sure you have npm or yarn installed.
-```bash
-npm install -g npm
