@@ -1,19 +1,35 @@
-# Aryan.github.io
+# Aryan
 
-A brief, one-to-two sentence description of what this project does and who it's for.
 
----
+/
+   ## 🚀 Link
 
-## 🚀 Features
 
-* **Feature 1:** Short description of an awesome capability.
-* **Feature 2:** Short description of another capability.
-* **Feature 3:** Live updates, data caching, etc.
+   * **YOUTUBE**
+    
+   = SUBSCRIBE ,LIKE ,SHARE OUR CONTENT. {https://youtube.com/channels/freakyfrog}
 
-## 🛠️ Tech Stack
+   * **INSTAGRAM**
+    
+   =FOLLOW US FOR MORE CONTENT. {https://instagram.com/freakyfrog2026}
 
-| Technology | Purpose |
-| :--- | :--- |
-| **Frontend** | React, Tailwind CSS |
-| **Backend** | Node.js, Express |
-| **Database** | PostgreSQL |
+   * **DISCORD**
+    
+   =JOIN OUR DISCORD SERVER. {https://discord.gg/AucdmjqDQC}
+
+   ## 🎮 MINECRAFT
+
+
+   * **ID** 🪪
+
+   SHARMAJIARYAN 
+
+
+ * **Version**
+
+  1.21.1
+
+
+  * **Laucher**
+
+   POJAVLAUNCHER
